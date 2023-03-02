@@ -12,5 +12,4 @@ carbonate shells of marine creatures. This is problematic for communities
 that depend on the ocean for their livelihoods. We will examine the 
 relationship between the pH of the ocean and sea surface temperature to 
 determine how these factors influence each other. 
-# Group 6: Cooper 
-Gottfried, Ben Breslow, Rina Goldberg
+# Group 6: Cooper Gottfried, Ben Breslow, Rina Goldberg 
