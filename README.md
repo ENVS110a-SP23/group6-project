@@ -1,11 +1,6 @@
 
 # Group 6: Cooper Gottfried, Ben Breslow, Rina Goldberg
 
-Hypothesis:
-
-Our hypothesis is that Temperature and pH will be inversely related to each other. This is because warmer water leads to more dissociation of ions and can hold less CO2, which by CO2 + H20 -> H2CO3 creates carbonic acid, both of which increases the pH of sea water. We hypothesize that as Temperature increases, the pH will drop, and as Temperature decreases, the pH will increase. Our next steps are put the data into Python or R, remove all missing data and outliers (some measurements were not taken and show up as very large or small numbers), then analyze the data and perform statistical and visual analysis divided among our group members. Ben will be doing the data cleaning and processing, Rina the visualization and Cooper the statistical analysis.
-
-
 Summary:
 
 Ocean acidification is the reduction of the pH of the ocean as a result 
@@ -23,9 +18,13 @@ that depend on the ocean for their livelihoods. We will examine the
 relationship between the pH of the ocean and sea surface temperature to 
 determine how these factors influence each other. 
 
+Hypothesis:
+
+Our hypothesis is that Temperature and pH will be inversely related to each other. This is because warmer water leads to more dissociation of ions and can hold less CO2, which by CO2 + H20 -> H2CO3 creates carbonic acid, both of which increases the pH of sea water. We hypothesize that as Temperature increases, the pH will drop, and as Temperature decreases, the pH will increase. Our next steps are put the data into Python or R, remove all missing data and outliers (some measurements were not taken and show up as very large or small numbers), then analyze the data and perform statistical and visual analysis divided among our group members. Ben will be doing the data cleaning and processing, Rina the visualization and Cooper the statistical analysis.
+
 Research Question:
 
-We would like to research the connection between ocean surface temperature and ocean acidity. We will focus on the North Pacific Seashore region, particularly the Oregon, Washington, Vancouver Coast and Shelf, the Aleutian Islands, and the Southern California Bight. We will use resources from Integrated Ocean Observing System Partners Across Coasts Ocean Acidification (IPACOA) as our source for ocean acidification data points and resources from the USGS Western Fisheries Research Center and US EPA Western Ecology Division as our source for ocean surface temperature data. Using these data points, we will discover a link between ocean surface temperature and ocean acidity, if one exists. IPACOA provides other useful information, like chlorophyll concentration in water, and we will check correlations between that and sea surface temperature too.
+We would like to research the connection between ocean surface temperature and ocean acidity. We will focus on the North Pacific Seashore region, particularly the Oregon, Washington, Vancouver Coast and Shelf, the Aleutian Islands, and the Southern California Bight. We will use resources from Integrated Ocean Observing System Partners Across Coasts Ocean Acidification (IPACOA) as our source for ocean acidification data points and resources from the USGS Western Fisheries Research Center and US EPA Western Ecology Division as our source for ocean surface temperature data. Using these data points, we will discover a link between ocean surface temperature and ocean acidity, if one exists. IPACOA provides other useful information, like chlorophyll concentration in water, and we will check correlations between that and sea surface temperature too. DATA LINKS: (http://www.ipacoa.org/Explorer) (https://www.sciencebase.gov/catalog/item/587430c9e4b0a829a320baea)
 
 -----
 Task List:
